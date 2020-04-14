@@ -2,6 +2,15 @@
 
 
 
+## Indian Stock Sentiment Predictor
+
+1. Collect news about various verticals of the economy under which 1600 companies are listed in the stock exchange
+2. Discuss the sentiment for each of them into 3 categories: a) BUY, b) SELL, c) STAY
+3. Create time series automatic forecasting models using different tools and see the predicted trend
+4. Based on the above two features, select the topmost stocks to invest every morning
+
+
+
 
 ## References:
 
