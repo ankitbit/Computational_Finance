@@ -11,3 +11,4 @@
 4. Artificial Intelligence for Trading, Udacity: https://github.com/udacity/artificial-intelligence-for-trading
 5. Artificial Intelligence Programming with Python- Nanodegree, Udacity: https://github.com/udacity/AIPND
 6. Artficial Intelligence, Constraint Programming and Local Search, Udacity: https://github.com/udacity/AIPND
+7. On the Importance of Text Analysis for Stock Price Prediction, Natural Language Processing Group, Stanford: https://nlp.stanford.edu/pubs/lrec2014-stock.pdf 
